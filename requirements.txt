@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+qdrant-client
+openai
+pydantic
+python-docx
+pdfplumber
+openpyxl
+python-pptx
